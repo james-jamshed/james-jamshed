@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @james-jamshed
+- 👋 Hi, I’m Jamshed Alam
 - 👀 I’m interested in web development, software engineering, and helping others start their coding journey.
 - 🌱I’m currently learning advanced web technologies, full-stack development, and improving my skills in machine learning and AI.
 - 💞️I’m looking to collaborate on open-source projects related to web development, educational tools for coders, and innovative software solutions.
