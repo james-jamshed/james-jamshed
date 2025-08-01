@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jamshed Alam</h1>
-<h3 align="center">MERN Stack Developer | AI & Automation Enthusiast | Open Source Contributor</h3>
+<h3 align="center">🚀MERN Stack Developer | AI & Automation Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
   <a href="https://github.com/jamshedalam">
@@ -11,12 +11,12 @@
 
 ### 👨‍💻 About Me
 
-- MERN Stack Developer
+- 🚀MERN Stack Developer
 - 💻 Focused on **MERN Stack + AI Automation**  
 - 🤖 Building tools with **n8n**, **OpenAI**, **LangChain**, and **Webflow APIs**  
 - 🧠 Learning fast, adapting faster — solving real-world problems with code  
-- 📬 Email: [jamshedalam.dev@gmail.com](mailto:jamshedalam.dev@gmail.com)  
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 📬 Email: [jamshedalam0823@gmail.com](mailto:jamshedalam0823@gmail.com)  
+- 🌐 Portfolio: [jamshedalam.in](https://jamshedalam.in)
 
 ---
 
