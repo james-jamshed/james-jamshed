@@ -32,11 +32,11 @@
 
 | Project | Description |
 |--------|-------------|
-| 🎬 [Netflix-GPT](https://github.com/jamshedalam/netflix-gpt) | GPT-powered movie search engine using TMDB |
-| 🍴 [Craving](https://github.com/jamshedalam/craving) | Food delivery app like Swiggy with live APIs |
-| ✈️ [AI Trip Planner](https://github.com/jamshedalam/ai-trip-planner) | Personalized travel planning using OpenAI & Maps |
-| ❤️ [DevTinder](https://github.com/jamshedalam/devtinder) | Developer matchmaking platform |
-| 📊 [Live Poll System](https://github.com/jamshedalam/poll-system) | Real-time polls with Express + Socket.io |
+| 🎬 [Netflix-GPT](https://github.com/james-jamshed/netflix-gpt) | GPT-powered movie search engine using TMDB |
+| 🍴 [Craving](https://github.com/james-jamshed/Craving) | Food delivery app like Swiggy with live APIs |
+| ✈️ [AI Trip Planner](https://github.com/james-jamshed/AI_TRIP_PLANNER) | Personalized travel planning using OpenAI & Maps |
+| ❤️ [DevTinder](https://github.com/james-jamshed/devTinder-web) | Developer matchmaking platform |
+| 📊 [Live Poll System](https://github.com/james-jamshed/Live-polling-system) | Real-time polls with Express + Socket.io |
 
 ---
 
@@ -52,13 +52,13 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/jamshedalam" target="_blank">
+  <a href="https://www.linkedin.com/in/james-jamshed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:jamshedalam.dev@gmail.com">
+  <a href="mailto:jamshedalam0823@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://jamshedalam.in" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=webflow&logoColor=white" />
   </a>
 </p>
