@@ -35,7 +35,7 @@
 | 🎬 [Netflix-GPT](https://github.com/james-jamshed/netflix-gpt) | GPT-powered movie search engine using TMDB |
 | 🍴 [Craving](https://github.com/james-jamshed/Craving) | Food delivery app like Swiggy with live APIs |
 | ✈️ [AI Trip Planner](https://github.com/james-jamshed/AI_TRIP_PLANNER) | Personalized travel planning using OpenAI & Maps |
-| ❤️ [DevTinder](https://github.com/james-jamshed/devTinder-web) | Developer matchmaking platform |
+| ❤️ [DevTinder](https://github.com/james-jamshed/devTinder-web) | Developer matchmaking platform .|
 | 📊 [Live Poll System](https://github.com/james-jamshed/Live-polling-system) | Real-time polls with Express + Socket.io |
 
 ---
