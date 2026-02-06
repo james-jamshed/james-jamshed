@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jamshed Alam </h1>
-<h3 align="center">🚀MERN Stack Developer | AI & Automation Enthusiast | Open Source Contributor</h3>
+<h3 align="center">🚀Full Stack Developer | AI & Automation Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
   <a href="https://github.com/jamshedalam">
