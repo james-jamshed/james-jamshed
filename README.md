@@ -13,7 +13,7 @@
 
 - 🚀MERN Stack Developer.
 - 💻 Focused on **MERN Stack + AI Automation**  
-- 🤖 Building tools with **n8n**, **OpenAI**, **LangChain**, and **Webflow APIs**  
+- 🤖 Building tools with **n8n**, **make.com**, **OpenAI**, **LangChain**, and **Webflow APIs**  
 - 🧠 Learning fast, adapting faster — solving real world problems with code  
 - 📬 Email: [jamshedalam0823@gmail.com](mailto:jamshedalam0823@gmail.com)  
 - 🌐 Portfolio: [jamshedalam.in](https://jamshedalam.in)
