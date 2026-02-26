@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🚀MERN Stack Developer.
+- 🚀MERN Stack Developer,
 - 💻 Focused on **MERN Stack + AI Automation**  
 - 🤖 Building tools with **n8n**, **make.com**, **OpenAI**, **LangChain**, and **Webflow APIs**  
 - 🧠 Learning fast, adapting faster — solving real world problems with code  
