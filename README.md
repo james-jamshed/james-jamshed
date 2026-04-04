@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jamshed Alam  </h1>
+<h1 align="center">Hi 👋, I'm Jamshed Alam </h1>
 <h3 align="center">🚀Full Stack Developer | AI & Automation Developer | Open Source Contributor</h3>
 
 <p align="center">
