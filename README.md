@@ -40,7 +40,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jamshedalam&show_icons=true&theme=dark&hide_border=true" height="165" />
